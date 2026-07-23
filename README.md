@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B5DE5&height=200&section=header&text=Baye%20Daouda%20SEYE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Engineer&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B5DE5&height=200&section=header&text=Baye%20Daouda%20SEYE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Mobile%20Engineer&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Machine+Learning+%26+Deep+Learning;IA+Engineer+%7C+Mod%C3%A8les+%26+MLOps;Full-Stack+%7C+React+%2F+Next.js+%2F+Express+%2F+PostgreSQL;Mobile+Engineer+%7C+Flutter+%2F+React+Native+%2F+iOS+%2F+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Mobile+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
