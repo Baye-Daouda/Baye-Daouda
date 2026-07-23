@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B5DE5&height=200&section=header&text=Baye%20Daouda%20SEYE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Mobile%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B5DE5&height=200&section=header&text=Baye%20Daouda%20SEYE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Engineer&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Machine+Learning+%26+Deep+Learning;IA+Engineer+%7C+Mod%C3%A8les+%26+MLOps;Mobile+Engineer+%7C+Flutter+%2F+React+Native+%2F+iOS+%2F+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Machine+Learning+%26+Deep+Learning;IA+Engineer+%7C+Mod%C3%A8les+%26+MLOps;Full-Stack+%7C+React+%2F+Next.js+%2F+Express+%2F+PostgreSQL;Mobile+Engineer+%7C+Flutter+%2F+React+Native+%2F+iOS+%2F+Android" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@ Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intell
 
 - 🧠 **Data Scientist** — exploration, nettoyage et modélisation de données pour en extraire des insights exploitables
 - 🤖 **AI Engineer** — conception et déploiement de modèles de Machine Learning / Deep Learning
+- 💻 **Full-Stack Engineer** — applications web de bout en bout (React/Next.js, Express, PostgreSQL)
 - 📱 **Mobile Engineer** — applications mobiles natives et cross-platform (Flutter, React Native, iOS, Android)
 - 🌱 En apprentissage continu, toujours à la recherche de nouveaux défis techniques
 - 📫 Me contacter : **bayedaoudaseye@gmail.com**
@@ -38,13 +39,17 @@ Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intell
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
 
+**Full-Stack Web**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,vite,tailwind,postgres,prisma&theme=dark" />
+
 **Développement Mobile**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift&theme=dark" />
 
-**Données, Web & Outils**
+**Outils & Visualisation**
 
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,postgres,mysql,tableau,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,tableau&theme=dark" />
 
 ---
 
@@ -56,6 +61,7 @@ Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intell
 | 🔒 [**SDN-Model-with-Anomaly-Detection**](https://github.com/Baye-Daouda/SDN-Model-with-Anomaly-Detection) | Détection d'anomalies réseau par Deep Learning (Bi-LSTM) sur CICIDS2017, intégration Ryu et simulation Mininet — projet de mémoire | Python · Deep Learning |
 | 📚 [**gestion-livres-web**](https://github.com/Baye-Daouda/-gestion-livres-web) | Application web de gestion de livres | JavaScript |
 | 🧵 [**Couture-APP**](https://github.com/Baye-Daouda/Couture-APP) × [**Costume-inteligente**](https://github.com/Baye-Daouda/Costume-inteligente) | Duo web + embarqué autour de la couture intelligente : interface web côté app, logique embarquée côté objet connecté | HTML · C++ |
+| ⚙️ [**Initiative_APP**](https://github.com/Baye-Daouda/Initiative_APP) | Application full-stack avec authentification, API REST et base de données PostgreSQL | React · Express · PostgreSQL (Neon) · Drizzle ORM |
 | 💼 [**Portfolio**](https://github.com/Baye-Daouda/portfolio-baye-dauda) | Portfolio personnel | Next.js · TypeScript |
 | 💳 [**ABR_PAY**](https://github.com/Baye-Daouda/ABR_PAY-) | Prototype d'application de paiement | JavaScript |
 
