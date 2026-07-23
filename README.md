@@ -24,9 +24,9 @@
 
 Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intelligence artificielle** et du **développement mobile**.
 
-- 🧠 **Data Scientist** — j'explore, nettoie et modélise des données pour en extraire des insights exploitables
-- 🤖 **AI Engineer** — je conçois et déploie des modèles de Machine Learning / Deep Learning en production
-- 📱 **Mobile Engineer** — je construis des applications mobiles natives et cross-platform
+- 🧠 **Data Scientist** — exploration, nettoyage et modélisation de données pour en extraire des insights exploitables
+- 🤖 **AI Engineer** — conception et déploiement de modèles de Machine Learning / Deep Learning
+- 📱 **Mobile Engineer** — applications mobiles natives et cross-platform (Flutter, React Native, iOS, Android)
 - 🌱 En apprentissage continu, toujours à la recherche de nouveaux défis techniques
 - 📫 Me contacter : **bayedaoudaseye@gmail.com**
 
@@ -34,44 +34,30 @@ Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intell
 
 ## 🛠️ Stack technique
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Data Science & IA**
 
-**Data Science**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-**Machine Learning / IA**
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
 
 **Développement Mobile**
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift&theme=dark" />
 
-**Données & Visualisation**
+**Données, Web & Outils**
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,postgres,mysql,tableau,git&theme=dark" />
 
-</td>
-</tr>
-</table>
+---
+
+## 🚀 Projets phares
+
+| Projet | Description | Stack |
+|---|---|---|
+| 🛍️ [**Boutique**](https://github.com/Baye-Daouda/Boutique) | Site e-commerce complet (catalogue, galerie d'œuvres, commande photo personnalisée, panier avec commande WhatsApp) | Next.js 16 · TypeScript · Tailwind CSS |
+| 🔒 [**SDN-Model-with-Anomaly-Detection**](https://github.com/Baye-Daouda/SDN-Model-with-Anomaly-Detection) | Détection d'anomalies réseau par Deep Learning (Bi-LSTM) sur CICIDS2017, intégration Ryu et simulation Mininet — projet de mémoire | Python · Deep Learning |
+| 📚 [**gestion-livres-web**](https://github.com/Baye-Daouda/-gestion-livres-web) | Application web de gestion de livres | JavaScript |
+| 🧵 [**Couture-APP**](https://github.com/Baye-Daouda/Couture-APP) × [**Costume-inteligente**](https://github.com/Baye-Daouda/Costume-inteligente) | Duo web + embarqué autour de la couture intelligente : interface web côté app, logique embarquée côté objet connecté | HTML · C++ |
+| 💼 [**Portfolio**](https://github.com/Baye-Daouda/portfolio-baye-dauda) | Portfolio personnel | Next.js · TypeScript |
+| 💳 [**ABR_PAY**](https://github.com/Baye-Daouda/ABR_PAY-) | Prototype d'application de paiement | JavaScript |
 
 ---
 
