@@ -35,33 +35,39 @@ Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intell
 
 ## 🛠️ Stack technique
 
-**📊 Data Scientist**
+<table>
+<tr><td><b>📊 Data Scientist & 🤖 AI Engineer</b></td></tr>
+<tr><td>
 
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" />
 
-**🤖 AI Engineer**
+</td></tr>
+<tr><td><b>💻 Full-Stack Engineer</b></td></tr>
+<tr><td>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,vite,prisma,postgres,mongodb,redis,docker&theme=dark&perline=8" />
 
-**💻 Full-Stack Engineer**
+</td></tr>
+<tr><td><b>📱 Mobile Engineer</b></td></tr>
+<tr><td>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,vite,prisma,postgres,mongodb,redis,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase&theme=dark&perline=8" />
 
-**📱 Mobile Engineer**
+</td></tr>
+<tr><td><b>📈 Data Viz, Notebooks & Outils</b></td></tr>
+<tr><td>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase&theme=dark" />
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=8" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" />&nbsp;
+<img height="35" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" />
 
-**🧰 Outils**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</td></tr>
+</table>
 
 ---
 
