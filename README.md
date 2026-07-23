@@ -35,21 +35,33 @@ Je suis un ingénieur polyvalent à l'intersection de la **data**, de l'**intell
 
 ## 🛠️ Stack technique
 
-**Data Science & IA**
+**📊 Data Scientist**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-**Full-Stack Web**
+**🤖 AI Engineer**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,vite,tailwind,postgres,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 
-**Développement Mobile**
+**💻 Full-Stack Engineer**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,vite,prisma,postgres,mongodb,redis,docker&theme=dark" />
 
-**Outils & Visualisation**
+**📱 Mobile Engineer**
 
-<img src="https://skillicons.dev/icons?i=git,github,tableau&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase&theme=dark" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+
+**🧰 Outils**
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 ---
 
